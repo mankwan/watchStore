@@ -1,0 +1,258 @@
+[ 2015-01-01T00:04:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002147s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007357s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000529s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
+[ 2015-01-01T00:04:54+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006966s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000534s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001474s ]
+
+[ 2015-01-01T00:06:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002417s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006574s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000559s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000599s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2015-01-01T00:12:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003690s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007052s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000516s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002044s ]
+
+[ 2015-01-01T00:12:55+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006800s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000498s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000594s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000381s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001810s ]
+
+[ 2015-01-01T00:13:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001927s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007411s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000580s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000580s ]
+SQL: INSERT INTO `tp_cart` (`uid`,`update_time`,`gid`,`info`) VALUES (15,1420042428,31,'a:1:{i:0;a:2:{s:7:\"good_id\";s:2:\"31\";s:8:\"good_num\";s:1:\"1\";}}') [ RunTime:0.000711s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2015-01-01T00:14:27+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001783s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007570s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000543s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001546s ]
+
+[ 2015-01-01T00:19:12+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002130s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007400s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000580s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000571s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420042752,`gid`=31,`info`='a:1:{i:0;a:2:{s:7:\"good_id\";s:2:\"31\";s:8:\"good_num\";s:1:\"1\";}}' WHERE ( gid=31 ) [ RunTime:0.031059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001503s ]
+
+[ 2015-01-01T00:19:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002049s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007333s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000517s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000565s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420042777,`gid`=31,`info`='a:1:{i:0;a:2:{s:7:\"good_id\";s:2:\"31\";s:8:\"good_num\";s:2:\"12\";}}' WHERE ( gid=31 ) [ RunTime:0.001206s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2015-01-01T00:20:35+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001795s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006784s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000564s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=33 ) LIMIT 1   [ RunTime:0.000559s ]
+SQL: REPLACE INTO `tp_cart` (`uid`,`update_time`,`gid`,`info`) VALUES (15,1420042835,33,'a:1:{i:0;a:2:{s:7:\"good_id\";s:2:\"33\";s:8:\"good_num\";s:1:\"7\";}}') [ RunTime:0.000805s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007686s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001177s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001286s ]
+
+[ 2015-01-01T00:20:47+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001909s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006869s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000564s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=33 ) LIMIT 1   [ RunTime:0.000565s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420042847,`gid`=33,`info`='a:1:{i:0;a:2:{s:7:\"good_id\";s:2:\"33\";s:8:\"good_num\";s:1:\"3\";}}' WHERE ( gid=33 ) [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008503s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001338s ]
+
+[ 2015-01-01T00:27:57+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002347s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007020s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000567s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 12 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=33 ) LIMIT 1   [ RunTime:0.000550s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420043277,`gid`=33,`info`='a:1:{i:0;a:2:{s:7:\"good_id\";s:2:\"33\";s:8:\"good_num\";s:2:\"10\";}}' WHERE ( gid=33 ) [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+

@@ -1,0 +1,94 @@
+[ 2014-12-26T00:11:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/casioList.html
+ERR: Think\Model:getGoodslist方法不存在！
+
+[ 2014-12-26T00:16:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/casioList.html
+ERR: Think\Model:getGoodslist方法不存在！
+
+[ 2014-12-26T00:19:25+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/casioList.html
+ERR: Think\Model:getGoodslist方法不存在！
+
+[ 2014-12-26T00:19:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/casioList.html
+ERR: Think\Model:getGoodslist方法不存在！
+
+[ 2014-12-26T00:20:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/casioList.html
+ERR: Think\Model:assign方法不存在！
+
+[ 2014-12-26T00:20:42+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/casioList.html
+ERR: Think\Model:assign方法不存在！
+
+[ 2014-12-26T11:31:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.038497s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000725s ]
+
+[ 2014-12-26T11:34:47+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002744s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.004513s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000739s ]
+
+[ 2014-12-26T22:38:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/gShock/id/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002778s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.004225s ]
+SQL: SELECT * FROM `tp_goods` WHERE ( id='Goods' ) LIMIT 1   [ RunTime:0.000595s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000270s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Undefined variable: username D:\wamp\www\thinkphp2\Application\Runtime\Cache\Home\ea36e396190ed8bc942b9628a1b4208a.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2014-12-26T22:42:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/gShock/id/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.003998s ]
+SQL: SELECT * FROM `tp_goods` WHERE ( id='Goods' ) LIMIT 1   [ RunTime:0.000605s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: username D:\wamp\www\thinkphp2\Application\Runtime\Cache\Home\ea36e396190ed8bc942b9628a1b4208a.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001278s ]
+
+[ 2014-12-26T22:47:12+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/gShock/id/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002095s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.004561s ]
+SQL: SELECT * FROM `tp_goods` WHERE ( id='Home' ) LIMIT 1   [ RunTime:0.000694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined variable: username D:\wamp\www\thinkphp2\Application\Runtime\Cache\Home\ea36e396190ed8bc942b9628a1b4208a.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+

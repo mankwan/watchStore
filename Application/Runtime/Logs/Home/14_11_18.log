@@ -1,0 +1,173 @@
+[ 2014-11-18T20:56:29+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.056293s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&& password='d41d8cd98f00b204e9800998ecf8427e' ) LIMIT 1   [ RunTime:0.000819s ]
+
+[ 2014-11-18T21:32:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003733s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008333s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:32:15+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004831s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008869s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:33:44+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002698s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007909s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:35:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002686s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007707s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:36:04+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002183s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008050s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:37:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002879s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008275s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:37:24+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004584s ]
+NOTIC: [8] Use of undefined constant console - assumed 'console' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [2] log() expects parameter 1 to be double, array given D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007292s ]
+NOTIC: [8] Undefined index: userpwd D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2014-11-18T21:40:58+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002520s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008061s ]
+
+[ 2014-11-18T21:42:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006854s ]
+
+[ 2014-11-18T21:45:11+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003617s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008579s ]
+
+[ 2014-11-18T21:45:24+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002392s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007165s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000709s ]
+
+[ 2014-11-18T21:45:29+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003025s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007143s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000759s ]
+
+[ 2014-11-18T21:49:33+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002658s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.010532s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000700s ]
+
+[ 2014-11-18T21:50:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002752s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.009040s ]
+
+[ 2014-11-18T21:50:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003110s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006790s ]
+
+[ 2014-11-18T21:51:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002311s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008863s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000849s ]
+
+[ 2014-11-18T21:51:40+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001903s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007764s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000763s ]
+
+[ 2014-11-18T21:52:52+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002120s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008071s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000685s ]
+
+[ 2014-11-18T21:55:14+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002756s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008147s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' ) LIMIT 1   [ RunTime:0.000869s ]
+
+[ 2014-11-18T21:56:00+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001970s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008179s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000620s ]
+
+[ 2014-11-18T22:22:24+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002292s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007332s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000756s ]
+
+[ 2014-11-18T22:22:25+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001866s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007195s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000668s ]
+

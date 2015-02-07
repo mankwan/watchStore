@@ -1,0 +1,31 @@
+[ 2015-01-22T15:12:39+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002191s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant is_repeat - assumed 'is_repeat' D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 42 行.
+
+[ 2015-01-22T15:12:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant is_repeat - assumed 'is_repeat' D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 42 行.
+
+[ 2015-01-22T15:12:44+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003495s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007234s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000757s ]
+
+[ 2015-01-22T15:58:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/checkList.html
+ERR: 非法操作:checkList
+
+[ 2015-01-22T15:58:59+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/checkList.html
+ERR: 非法操作:checkList
+
+[ 2015-01-22T15:59:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/checkList.html
+ERR: 非法操作:checkList
+

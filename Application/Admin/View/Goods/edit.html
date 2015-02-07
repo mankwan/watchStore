@@ -1,0 +1,51 @@
+<extend name="Public:base"/>
+<block name="left">
+	<ul>
+		<li>商品管理</li>
+		<ul>
+			<li><a href="{:U('Goods/GoodsLists')}">商品列表</a></li>
+			<li><a href="{:U('Goods/GoodsAdd')}">新增商品</a></li>
+		</ul>
+	</ul>
+</block>
+
+<block name="content">
+	<form role="form" id="newGood" action="{:U('Goods/edit')}" method="post" >
+       <h3><center>修改的商品</center></h3>
+        <div class="form-group">			
+			<input type="hidden" class="form-control" name="id" id="id" placeholder="商品id" value="{$good_info.id}">
+		</div>
+		<div class="form-group">
+			<label>商品名称</label>			
+			<input type="text" class="form-control" name="title" id="title" placeholder="商品名称" value="{$good_info.title}">
+		</div>
+		<div class="form-group">
+		  <label>商品进货价</label>
+		  <div class="input-group">			    			
+			<div class="input-group-addon">￥</div>
+			<input type="text" class="form-control" name="inPrice" id="inPrice" placeholder="商品进货价" value="{$good_info.inPrice}">
+		  </div>
+		</div>
+		<div class="form-group">
+		   <label>商品售价</label>	
+		   <div class="input-group">	    			
+			<div class="input-group-addon">￥</div>
+			<input type="text" class="form-control" name="outPrice" id="outPrice" placeholder="商品售价" value="{$good_info.outPrice}">
+		  </div>
+		</div>
+		<div class="form-group">
+			<label>商品存货量</label>	
+			<input type="text" class="form-control" name="remain" id="remain" placeholder="商品存货量" value="{$good_info.remain}">
+		</div>
+		<div class="form-group">
+		  <label class="radio-inline">
+			<input type="radio" name="isOnSale" id="isOnsale" value="{$good_info.status}">上架
+		  </label>
+		  <label class="radio-inline">
+			<input type="radio" name="isOnSale" id="isOnsale" value="{$good_info.status}">下架
+		  </label>
+	    </div>
+		<button id="submitGood" type="submit" class="btn btn-default">确定</button>
+	</form>
+	
+</block>

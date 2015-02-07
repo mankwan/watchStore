@@ -1,0 +1,67 @@
+html,body,div{
+	margin:0;
+	padding:0;
+}
+header{
+	width:100%;
+	height:100px;
+	background:url(../Img/login_header.jpg);
+}
+.head-box{
+	width:1000px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:100px;
+	height:100px;
+	line-height:100px;
+	padding-top:15px;
+}
+.title{
+	float:right;
+	font:18px,Arial Verdana, "宋体";
+	height:100px;
+	line-height:100px;
+}
+
+footer{
+	width:100%;
+	height:100px;
+	background:url(../Img/login_header.jpg);
+	background-position:0 -100px;
+	text-align:center;
+	clear:both;
+}
+.foot-box{
+	width:100%;
+	margin:0 auto;
+}
+.foot-text{
+	font:Arial, Helvetica, sans-serif, 10px;
+	line_height:50px;
+}
+
+.box{
+	width:1000px;
+	margin:0 auto;
+	clear:both;
+}
+.l-img{
+	background:url(../Img/cat2.jpg) no-repeat;
+	width:500px;
+	height:360px;
+	float:left;
+}
+.r-content{
+	float:right;
+}
+.r-text{
+	border-top:3px solid #999
+}
+#register_form{
+	border: 1px solid #999;
+	weight:500px;
+	height:300px;
+	border-top:none;
+}

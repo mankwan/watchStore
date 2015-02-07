@@ -1,0 +1,52 @@
+<html>
+<body>
+<extend name="Public:indexHeader"/>
+<block name="title">
+	<ol class="breadcrumb">
+  		<li><a href="#">首页</a></li>
+  		<li><a href="#">CASIO</a></li>
+  		<li class="active">BABY-G系列</li>
+	</ol>
+</block>
+<block name="content">
+	<div class="contain">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="thumbnail">
+					<img src="__PUBLIC__/Img/{$good_info.title}.jpg" alt="G_SHOCK1">
+				</div>
+			</div>
+			<div class="col-md-8">
+				<ul class="list-group" id="summary">
+					<h3><input id="goodName" type="hidden" value="{$good_info.title}" />{$good_info.title}</h3>
+					<input id="goodId" type="hidden" value="{$good_info.id}" />
+					<li class="list-group-item"><input id="goodPrice" type="hidden" value="{$good_info.outPrice}">价格:￥{$good_info.outPrice}</li>
+					<li class="list-group-item">配送的地点:
+						<div class="btn-group">
+							<select id="county">
+   								 <option value="">--市--</option>
+   								 <option value="zhejiang">广州</option>
+   								 <option value="jiangsu" >江门</option>
+    						</select>
+						</div>
+					</li>				
+				</ul>
+				<div class="buy-btn-box">
+					<div class="select-good-num">
+						<p>数量：</p>
+						<input id="numDown" type="button" value="-"/>
+						<input id="goodNum" type="text" value="1"/>
+						<input id="numUp" type="button" value="+"/>
+					</div>
+					<div class="cart ">
+					<input id="addToCart" type="button" class="btn btn-success" value="加入购物车" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</block>
+
+
+</body>
+</html>

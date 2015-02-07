@@ -1,0 +1,58 @@
+html,body,div{
+	margin:0;
+	padding:0;
+}
+header{
+	width:100%;
+	/*background:url(../Img/login_header.jpg);*/
+}
+.head-box{
+	width:1000px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:100px;
+	height:100px;
+	line-height:100px;
+	padding-top:15px;
+}
+.title{
+	font:18px,Arial Verdana, "宋体";
+	height:100px;
+	line-height:100px;
+	width:250px;
+	
+}
+.title a{
+	text-decoration:none;	
+}
+.lr{
+	float:right;
+	color:#00F;
+	font:10px,Arial Verdana, Geneva, sans-serif,"宋体";
+	line-height:100px;
+	height:100px;
+	width:200px;
+}
+.shopCar{
+	float:left;
+	line-height:100px;
+	padding-top:30px;
+}
+.container{
+	width:1000px;
+	margin:0 auto;
+	background:url(../Img/login_header.jpg);
+}
+/*.navbar li{
+	display:inline;
+	width:50px;
+	margin-left: 80px;
+    margin-right: 80px;
+	
+}
+.navbar li a {
+	text-decoration:none;
+	font-size:20px;
+}*/

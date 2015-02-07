@@ -1,0 +1,34 @@
+<html>
+<body>
+<extend name="Public:indexHeader" />
+<block name="content">
+<div class="contain">
+  <div class="row">
+    <div class="col-md-2">
+        <div class="nav nav-pills nav-stacked" role="tablist">
+          <li role="presentation" name="casio" onclick=leftList()><a href="{:U('Home/Goods/casioList')}">卡西欧CASIO</a></li>
+          <li role="presentation" name="swatch"><a href="#">SWATCH</a></li>  
+          <li role="presentation" name="rolex"><a href="#">劳力士ROLEX</a></li>
+          <li role="presentation" name="omega"><a href="#">Ω OMEGA</a></li>
+          <li role="presentation" name="seiko"><a href="#">精工SEIKO</a></li>
+        </div>
+    </div>
+    <div class="col-md-9">     
+    </div>
+  </div>
+</div>
+</block>
+
+<script type="text/javascript">
+function leftList(){
+  $('.nav-pills').on('click','[name=casio]',function(){
+    $(this).dropdown(function(){
+
+    });
+  });
+}
+</script>
+
+
+</body>
+</html>

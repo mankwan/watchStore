@@ -1,0 +1,41 @@
+[ 2014-11-20T13:56:55+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003029s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007570s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000677s ]
+
+[ 2014-11-20T13:58:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003374s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007338s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000604s ]
+
+[ 2014-11-20T13:59:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007368s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='eeeee'&&password='85e1c5fcd281659a09398f110f2d039f' ) LIMIT 1   [ RunTime:0.000720s ]
+
+[ 2014-11-20T13:59:49+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007415s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000735s ]
+
+[ 2014-11-20T13:59:55+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007615s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000614s ]
+
+[ 2014-11-20T22:53:38+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/register.html
+ERR: 无法加载控制器:Register
+
+[ 2014-11-20T22:54:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Public/userfooter.html
+ERR: 无法加载控制器:Public
+

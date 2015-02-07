@@ -1,0 +1,187 @@
+[ 2014-12-15T11:09:03+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002576s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007047s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000681s ]
+ERR: 非法数据对象！:[create_time=>1418612943]
+
+[ 2014-12-15T11:09:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006630s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000666s ]
+ERR: 非法数据对象！:[create_time=>1418612945]
+
+[ 2014-12-15T11:09:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006486s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000652s ]
+ERR: 非法数据对象！:[create_time=>1418612945]
+
+[ 2014-12-15T11:09:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002132s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006928s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000759s ]
+ERR: 非法数据对象！:[create_time=>1418612946]
+
+[ 2014-12-15T11:09:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002139s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006687s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000750s ]
+ERR: 非法数据对象！:[create_time=>1418612946]
+
+[ 2014-12-15T11:09:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006561s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000655s ]
+ERR: 非法数据对象！:[create_time=>1418612946]
+
+[ 2014-12-15T11:09:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006607s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000679s ]
+ERR: 非法数据对象！:[create_time=>1418612946]
+
+[ 2014-12-15T11:10:40+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002433s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006645s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000731s ]
+ERR: 非法数据对象！:[create_time=>1418613040]
+
+[ 2014-12-15T11:13:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007017s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000785s ]
+
+[ 2014-12-15T11:13:59+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002405s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006714s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000677s ]
+ERR: 非法数据对象！:[create_time=>1418613239]
+
+[ 2014-12-15T11:14:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001744s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006607s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000661s ]
+ERR: 非法数据对象！:[create_time=>1418613246]
+
+[ 2014-12-15T11:14:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006791s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000698s ]
+ERR: 非法数据对象！:[create_time=>1418613247]
+
+[ 2014-12-15T11:14:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006547s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000681s ]
+ERR: 非法数据对象！:[create_time=>1418613247]
+
+[ 2014-12-15T11:14:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006611s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000686s ]
+ERR: 非法数据对象！:[create_time=>1418613247]
+
+[ 2014-12-15T11:14:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001833s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007494s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000685s ]
+ERR: 非法数据对象！:[create_time=>1418613247]
+
+[ 2014-12-15T11:14:45+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002141s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006821s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mymymy' LIMIT 1   [ RunTime:0.000703s ]
+
+[ 2014-12-15T11:19:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002127s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006820s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqq' LIMIT 1   [ RunTime:0.000723s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('qqqqq','437599f1ea3514f8969f161a6606ce18','127.0.0.1',1418613542) [ RunTime:0.149872s ]
+
+[ 2014-12-15T11:21:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002310s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007160s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqq' LIMIT 1   [ RunTime:0.000721s ]
+
+[ 2014-12-15T11:26:58+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002316s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006929s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqq' LIMIT 1   [ RunTime:0.000737s ]
+
+[ 2014-12-15T11:29:19+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002321s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007016s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'wwwww' LIMIT 1   [ RunTime:0.000746s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('wwwww','df483402b9bfeb234717a32c6e86280e','127.0.0.1',1418614158) [ RunTime:0.090674s ]
+
+[ 2014-12-15T11:37:03+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002529s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007097s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'eeeee' LIMIT 1   [ RunTime:0.000913s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('eeeee','86871b9b1ab33b0834d455c540d82e89','127.0.0.1',1418614623) [ RunTime:0.086939s ]
+
+[ 2014-12-15T11:37:21+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002532s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006545s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'rrrrr' LIMIT 1   [ RunTime:0.000685s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('rrrrr','6b76b5b54567ec0008287d11a2e9e22a','127.0.0.1',1418614641) [ RunTime:0.111266s ]
+
+[ 2014-12-15T11:38:33+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002411s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006788s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'yyyyy' LIMIT 1   [ RunTime:0.000735s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('yyyyy','c5777c091df772ff2b2dffcb43d9794c','127.0.0.1',1418614713) [ RunTime:0.076929s ]
+
+[ 2014-12-15T18:06:47+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002115s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007066s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000834s ]
+

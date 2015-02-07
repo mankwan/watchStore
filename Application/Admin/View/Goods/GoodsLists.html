@@ -1,0 +1,54 @@
+<extend name="Public:base"/>
+<block name="left">
+	<ul>
+		<li>商品管理</li>
+		<ul>
+			<li><a href="{:U('Goods/GoodsLists')}">商品列表</a></li>
+			<li><a href="{:U('Goods/GoodsAdd')}">新增商品</a></li>
+		</ul>
+	</ul>
+</block>
+
+<block name="content">
+	<table class="table table-striped table-hover">
+	<thead>
+		<th>id</th>
+		<th>用户名</th>
+		<th>商品名称</th>
+		<th>进货价格</th>
+		<th>售价</th>
+		<th>销量</th>
+		<th>货存量</th>
+		<th>创建时间</th>
+		<th>更新时间</th>
+		<th>状态</th>
+		<th>类型</th>
+		<th>操作</th>
+	</thead>
+	<tbody>
+		<foreach name="goods_list.lists" item="gl">
+		<tr>
+		<td>{$gl.id}</td>
+		<td>{$gl.username}</td>
+		<td>{$gl.title}</td>
+		<td>{$gl.inPrice}</td>
+		<td>{$gl.outPrice}</td>
+		<td>{$gl.sales}</td>
+		<td>{$gl.remain}</td>
+		<td>{$gl.create_time|date="Y-m-d H:i:s", ###}</td>
+		<td>{$gl.update_time|date="Y-m-d H:i:s", ###}</td>
+		<td>{$gl.isOnSale}</td>
+		<td>{$gl.type}</td>
+		<td><a href="{:U('Goods/edit',array('id'=>$gl['id']))}">编辑</a></td>	
+		<td><a href="{:U('Goods/GoodsLists',array('id'=>$gl['id']))}">删除</a></td>	
+		</tr>
+		</foreach>
+	</tbody>
+	<tfoot>
+		<th colspan="6">{$goods_list.page}</th>
+	</tfoot>
+</block>
+
+<block name="footer">
+	
+</block>

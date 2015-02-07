@@ -1,0 +1,10 @@
+[ 2015-01-23T10:56:22+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002601s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007603s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000546s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.045215s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1421981782,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.015707s ]
+

@@ -1,0 +1,963 @@
+[ 2014-11-19T15:13:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.110592s ]
+
+[ 2014-11-19T15:55:36+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003825s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006721s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='1' )  [ RunTime:0.063324s ]
+
+[ 2014-11-19T16:08:51+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002698s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007224s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='111111' )  [ RunTime:0.000627s ]
+
+[ 2014-11-19T16:10:11+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001864s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006680s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' )  [ RunTime:0.000717s ]
+
+[ 2014-11-19T16:12:18+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003419s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006661s ]
+
+[ 2014-11-19T16:12:53+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002061s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006778s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='aaaaaaaaaa' )  [ RunTime:0.000661s ]
+
+[ 2014-11-19T16:13:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006196s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='aaaaaaaaaa' )  [ RunTime:0.000613s ]
+
+[ 2014-11-19T16:13:28+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002162s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007063s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='aaaaaaaaaa' )  [ RunTime:0.000670s ]
+
+[ 2014-11-19T16:17:19+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007921s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou' )  [ RunTime:0.000799s ]
+
+[ 2014-11-19T16:18:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002600s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006836s ]
+
+[ 2014-11-19T16:19:36+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003076s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007224s ]
+
+[ 2014-11-19T16:19:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002831s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007130s ]
+
+[ 2014-11-19T16:20:01+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002364s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006433s ]
+
+[ 2014-11-19T16:20:25+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002410s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007252s ]
+
+[ 2014-11-19T16:21:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002693s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008325s ]
+
+[ 2014-11-19T16:53:04+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006831s ]
+
+[ 2014-11-19T16:57:15+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002075s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007467s ]
+
+[ 2014-11-19T17:07:56+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003110s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006663s ]
+
+[ 2014-11-19T17:08:40+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002790s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006670s ]
+
+[ 2014-11-19T17:08:57+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002668s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006733s ]
+
+[ 2014-11-19T17:09:22+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007488s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Unknown modifier 'w' D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T17:09:38+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002658s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007224s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Unknown modifier 'w' D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T17:27:27+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002604s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008402s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Unknown modifier 'w' D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T17:27:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003176s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007674s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Unknown modifier 'w' D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T17:28:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002310s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006578s ]
+
+[ 2014-11-19T17:29:58+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002441s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007726s ]
+
+[ 2014-11-19T17:31:10+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002777s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007320s ]
+
+[ 2014-11-19T17:31:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007109s ]
+
+[ 2014-11-19T17:38:08+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006423s ]
+
+[ 2014-11-19T17:38:24+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002389s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008912s ]
+
+[ 2014-11-19T17:42:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002416s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006912s ]
+
+[ 2014-11-19T17:43:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002432s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006299s ]
+
+[ 2014-11-19T17:43:34+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.047033s ]
+
+[ 2014-11-19T17:44:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002457s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006610s ]
+
+[ 2014-11-19T17:44:14+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003527s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006791s ]
+
+[ 2014-11-19T17:44:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002068s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007452s ]
+
+[ 2014-11-19T17:46:30+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003513s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007270s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007316s ]
+ERR: 非法数据对象！:[usezrname=>aaaaa]
+
+[ 2014-11-19T17:46:54+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002162s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006286s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006540s ]
+ERR: 非法数据对象！:[usezrname=>aaaaaa]
+
+[ 2014-11-19T17:51:03+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003340s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.041506s ]
+
+[ 2014-11-19T17:51:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002754s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006932s ]
+
+[ 2014-11-19T17:51:25+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001978s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006978s ]
+
+[ 2014-11-19T17:51:35+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002007s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007196s ]
+
+[ 2014-11-19T17:51:49+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002478s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006193s ]
+
+[ 2014-11-19T17:52:04+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001904s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006730s ]
+
+[ 2014-11-19T17:53:36+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002719s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007346s ]
+
+[ 2014-11-19T17:55:00+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002665s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007521s ]
+
+[ 2014-11-19T19:41:03+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002244s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007190s ]
+
+[ 2014-11-19T19:41:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002444s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007526s ]
+
+[ 2014-11-19T19:46:31+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002868s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008278s ]
+
+[ 2014-11-19T19:52:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003076s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007793s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T19:53:29+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003466s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007224s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T19:54:45+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002449s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.039815s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T19:55:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002717s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007034s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Compilation failed: nothing to repeat at offset 14 D:\wamp\www\thinkphp2\ThinkPHP\Library\Think\Model.class.php 第 980 行.
+
+[ 2014-11-19T19:56:23+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002401s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007204s ]
+
+[ 2014-11-19T19:56:38+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002851s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006834s ]
+
+[ 2014-11-19T19:56:39+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002219s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008538s ]
+
+[ 2014-11-19T19:57:17+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003046s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007203s ]
+
+[ 2014-11-19T19:58:55+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002128s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006391s ]
+
+[ 2014-11-19T20:00:33+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002836s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006909s ]
+
+[ 2014-11-19T20:01:55+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003533s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006965s ]
+
+[ 2014-11-19T20:02:11+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003263s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008097s ]
+
+[ 2014-11-19T20:04:03+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002219s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006745s ]
+
+[ 2014-11-19T20:04:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002999s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006861s ]
+
+[ 2014-11-19T20:04:22+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002255s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007972s ]
+
+[ 2014-11-19T20:04:31+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002352s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006850s ]
+
+[ 2014-11-19T20:07:56+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003224s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007196s ]
+
+[ 2014-11-19T20:08:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003056s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007454s ]
+
+[ 2014-11-19T20:08:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001887s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006573s ]
+
+[ 2014-11-19T20:08:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003908s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006754s ]
+
+[ 2014-11-19T20:10:22+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002793s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006994s ]
+
+[ 2014-11-19T20:11:30+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003412s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008043s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000731s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000564s ]
+
+[ 2014-11-19T20:12:14+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002363s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007579s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000587s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000593s ]
+
+[ 2014-11-19T20:12:29+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002049s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006609s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000741s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000465s ]
+
+[ 2014-11-19T20:12:32+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002009s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006410s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000723s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000496s ]
+
+[ 2014-11-19T20:12:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002664s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007282s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000601s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000546s ]
+
+[ 2014-11-19T20:14:18+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002394s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006477s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000718s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000575s ]
+
+[ 2014-11-19T20:14:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003119s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007052s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000614s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000437s ]
+
+[ 2014-11-19T20:15:31+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002420s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007435s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000754s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000607s ]
+
+[ 2014-11-19T20:15:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002578s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007060s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000763s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000451s ]
+
+[ 2014-11-19T20:16:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001917s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006850s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000664s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000526s ]
+
+[ 2014-11-19T20:16:53+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002490s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007323s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000651s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000476s ]
+
+[ 2014-11-19T20:17:11+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002300s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008271s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000701s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000518s ]
+
+[ 2014-11-19T20:17:31+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003033s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007704s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000631s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000521s ]
+
+[ 2014-11-19T20:20:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002122s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007227s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000747s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000447s ]
+
+[ 2014-11-19T20:20:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001876s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007284s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000763s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000561s ]
+
+[ 2014-11-19T20:24:38+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002974s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007864s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000752s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000572s ]
+
+[ 2014-11-19T20:24:45+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003140s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006363s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000630s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000502s ]
+
+[ 2014-11-19T20:26:10+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002300s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007092s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000858s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000669s ]
+
+[ 2014-11-19T20:29:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003334s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.020453s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000645s ]
+
+[ 2014-11-19T20:29:55+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002162s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006658s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouqq' LIMIT 1   [ RunTime:0.000690s ]
+
+[ 2014-11-19T20:32:03+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002777s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006674s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouqq' LIMIT 1   [ RunTime:0.000613s ]
+
+[ 2014-11-19T20:32:10+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002661s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006824s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000595s ]
+
+[ 2014-11-19T20:35:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002641s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007811s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000755s ]
+
+[ 2014-11-19T20:36:07+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002057s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006705s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000707s ]
+
+[ 2014-11-19T20:37:22+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002357s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006456s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000649s ]
+
+[ 2014-11-19T20:37:28+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002859s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.022679s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouaa' LIMIT 1   [ RunTime:0.000661s ]
+
+[ 2014-11-19T20:38:00+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002300s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006800s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouaa' LIMIT 1   [ RunTime:0.000647s ]
+
+[ 2014-11-19T20:38:09+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006564s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000648s ]
+
+[ 2014-11-19T20:41:57+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007756s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006897s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000876s ]
+
+[ 2014-11-19T20:41:59+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002237s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007282s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhoua' LIMIT 1   [ RunTime:0.000752s ]
+
+[ 2014-11-19T20:42:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002591s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007176s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000561s ]
+
+[ 2014-11-19T20:42:13+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001861s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006791s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000609s ]
+
+[ 2014-11-19T20:43:39+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006639s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000640s ]
+
+[ 2014-11-19T20:47:26+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002218s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007018s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000606s ]
+
+[ 2014-11-19T20:47:31+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002298s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006945s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouaa' LIMIT 1   [ RunTime:0.000706s ]
+
+[ 2014-11-19T20:47:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002706s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006814s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouaa' LIMIT 1   [ RunTime:0.000638s ]
+
+[ 2014-11-19T20:47:53+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002135s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007557s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000679s ]
+
+[ 2014-11-19T20:48:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002697s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006414s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000633s ]
+
+[ 2014-11-19T20:48:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002758s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007315s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000636s ]
+
+[ 2014-11-19T20:48:59+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006635s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000561s ]
+
+[ 2014-11-19T20:49:57+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003060s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006515s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000739s ]
+
+[ 2014-11-19T20:52:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002638s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007693s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000869s ]
+
+[ 2014-11-19T20:52:16+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002308s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007274s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.000614s ]
+
+[ 2014-11-19T20:54:35+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003115s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007995s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzh' LIMIT 1   [ RunTime:0.000670s ]
+
+[ 2014-11-19T20:54:45+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003128s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007209s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zzzzzz' LIMIT 1   [ RunTime:0.000824s ]
+
+[ 2014-11-19T20:55:14+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006384s ]
+
+[ 2014-11-19T20:55:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001889s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007704s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zzzzzzz' LIMIT 1   [ RunTime:0.000644s ]
+
+[ 2014-11-19T20:57:06+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002197s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007105s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zzzzzzz' LIMIT 1   [ RunTime:0.000631s ]
+
+[ 2014-11-19T21:05:23+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003487s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008759s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zzzzzzz' LIMIT 1   [ RunTime:0.000837s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`) VALUES ('zzzzzzz','aa') [ RunTime:0.260252s ]
+
+[ 2014-11-19T21:16:28+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002184s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006895s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaaaaa' LIMIT 1   [ RunTime:0.000656s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`) VALUES ('aaaaaaaa','47bce5c74f589f4867dbd57e9ca9f808') [ RunTime:0.117034s ]
+
+[ 2014-11-19T21:23:28+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001990s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007750s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaaaaa' LIMIT 1   [ RunTime:0.000738s ]
+
+[ 2014-11-19T21:23:33+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002925s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007414s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaaa' LIMIT 1   [ RunTime:0.000685s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('aaaaaa','0cc175b9c0f1b6a831c399e269772661','127.0.0.1',1416403413) [ RunTime:0.095290s ]
+
+[ 2014-11-19T21:24:27+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001939s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006293s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaaa' LIMIT 1   [ RunTime:0.000638s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaaa' LIMIT 1   [ RunTime:0.000461s ]
+
+[ 2014-11-19T21:24:37+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002306s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007523s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaa' LIMIT 1   [ RunTime:0.000688s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaa' LIMIT 1   [ RunTime:0.000661s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('aaaaa','0cc175b9c0f1b6a831c399e269772661','127.0.0.1',1416403477) [ RunTime:0.092299s ]
+
+[ 2014-11-19T21:24:40+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006772s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaa' LIMIT 1   [ RunTime:0.000622s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'aaaaa' LIMIT 1   [ RunTime:0.000452s ]
+
+[ 2014-11-19T21:24:49+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003076s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007106s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqqq' LIMIT 1   [ RunTime:0.000641s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqqq' LIMIT 1   [ RunTime:0.000568s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('qqqqqq','0cc175b9c0f1b6a831c399e269772661','127.0.0.1',1416403489) [ RunTime:0.108857s ]
+
+[ 2014-11-19T21:24:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002483s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007563s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqqq' LIMIT 1   [ RunTime:0.000800s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqqq' LIMIT 1   [ RunTime:0.000697s ]
+
+[ 2014-11-19T21:25:01+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007610s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqqq' LIMIT 1   [ RunTime:0.000785s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'qqqqqq' LIMIT 1   [ RunTime:0.000566s ]
+
+[ 2014-11-19T21:36:21+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002199s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007579s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'kkkkk' LIMIT 1   [ RunTime:0.000734s ]
+
+[ 2014-11-19T21:37:04+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001818s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006587s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'kkkkk' LIMIT 1   [ RunTime:0.000637s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('kkkkk','c08ac56ae1145566f2ce54cbbea35fa3','127.0.0.1',1416404223) [ RunTime:0.086590s ]
+
+[ 2014-11-19T21:40:36+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002967s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007408s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'kkkkk' LIMIT 1   [ RunTime:0.000680s ]
+
+[ 2014-11-19T21:40:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001858s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006941s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'kkkkkk' LIMIT 1   [ RunTime:0.000605s ]
+
+[ 2014-11-19T21:40:50+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002360s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006697s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'dfdfdfdf' LIMIT 1   [ RunTime:0.000592s ]
+
+[ 2014-11-19T21:40:56+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001939s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006640s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'dfdfdfdf' LIMIT 1   [ RunTime:0.000686s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('dfdfdfdf','980ac217c6b51e7dc41040bec1edfec8','127.0.0.1',1416404456) [ RunTime:0.105281s ]
+
+[ 2014-11-19T21:41:10+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001896s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007223s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'dfdfdfdfw' LIMIT 1   [ RunTime:0.000629s ]
+
+[ 2014-11-19T21:41:54+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001871s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006766s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'fffffffffffffff' LIMIT 1   [ RunTime:0.000680s ]
+
+[ 2014-11-19T21:51:35+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002801s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006898s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'ffffffffffff' LIMIT 1   [ RunTime:0.000684s ]
+
+[ 2014-11-19T21:51:39+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002228s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007478s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'ffffffffff' LIMIT 1   [ RunTime:0.000618s ]
+
+[ 2014-11-19T21:51:43+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001850s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007412s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'fffffffffff' LIMIT 1   [ RunTime:0.000732s ]
+
+[ 2014-11-19T21:57:12+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002867s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006717s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'fffffffffff' LIMIT 1   [ RunTime:0.000785s ]
+

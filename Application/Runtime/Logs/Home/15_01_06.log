@@ -1,0 +1,117 @@
+[ 2015-01-06T13:24:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001775s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 32 行.
+NOTIC: [8] Use of undefined constant is_repeat - assumed 'is_repeat' D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 40 行.
+
+[ 2015-01-06T13:24:12+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002100s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.032856s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000774s ]
+
+[ 2015-01-06T16:02:21+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001998s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007411s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000724s ]
+
+[ 2015-01-06T20:47:09+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006826s ]
+NOTIC: [8] Undefined variable: good_name D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 22 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000528s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000585s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548429,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";N;}}' WHERE ( gid=22 ) [ RunTime:0.076213s ]
+
+[ 2015-01-06T20:48:14+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002909s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006730s ]
+NOTIC: [8] Undefined variable: good_name D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 22 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000442s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000482s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548494,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";N;}}' WHERE ( gid=22 ) [ RunTime:0.001047s ]
+
+[ 2015-01-06T20:49:08+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002663s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007061s ]
+NOTIC: [8] Undefined variable: good_name D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 22 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000529s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000573s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548548,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";N;}}' WHERE ( gid=22 ) [ RunTime:0.000633s ]
+
+[ 2015-01-06T20:49:19+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002202s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.009365s ]
+NOTIC: [8] Undefined variable: good_name D:\wamp\www\thinkphp2\Application\Home\Controller\GoodsController.class.php 第 22 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000971s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000665s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548559,`gid`=31,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"31\";s:8:\"good_num\";s:1:\"5\";s:10:\"good_price\";s:3:\"759\";s:9:\"good_name\";N;}}' WHERE ( gid=31 ) [ RunTime:0.000980s ]
+
+[ 2015-01-06T20:51:34+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007515s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000482s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000556s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548694,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.000696s ]
+
+[ 2015-01-06T20:51:42+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002391s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006994s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000546s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000657s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548702,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.000871s ]
+
+[ 2015-01-06T20:52:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002421s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006663s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000550s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000554s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548766,`gid`=31,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"31\";s:8:\"good_num\";s:1:\"5\";s:10:\"good_price\";s:3:\"759\";s:9:\"good_name\";s:7:\"BABY-G1\";}}' WHERE ( gid=31 ) [ RunTime:0.000659s ]
+
+[ 2015-01-06T20:52:59+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002587s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006612s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000569s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=32 ) LIMIT 1   [ RunTime:0.000496s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548779,`gid`=32,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"32\";s:8:\"good_num\";s:1:\"3\";s:10:\"good_price\";s:4:\"2029\";s:9:\"good_name\";s:8:\"G-SHOCK3\";}}' WHERE ( gid=32 ) [ RunTime:0.000616s ]
+
+[ 2015-01-06T20:53:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002379s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006847s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000436s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=33 ) LIMIT 1   [ RunTime:0.000491s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1420548785,`gid`=33,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"33\";s:8:\"good_num\";s:1:\"3\";s:10:\"good_price\";s:3:\"589\";s:9:\"good_name\";s:8:\"G-SHOCK4\";}}' WHERE ( gid=33 ) [ RunTime:0.000860s ]
+

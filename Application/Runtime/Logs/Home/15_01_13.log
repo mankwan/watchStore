@@ -1,0 +1,28 @@
+[ 2015-01-13T11:51:05+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.041652s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000693s ]
+
+[ 2015-01-13T11:51:20+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002264s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.080280s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000572s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.005303s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1421121080,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.015366s ]
+
+[ 2015-01-13T11:51:27+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003306s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006548s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='15' ) LIMIT 1   [ RunTime:0.000529s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000565s ]
+SQL: UPDATE `tp_cart` SET `uid`=15,`update_time`=1421121087,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.000836s ]
+
