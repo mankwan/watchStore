@@ -7,6 +7,7 @@
 <script type="text/javascript" src=
 "/thinkphp2/Public/Js/bootstrap.js"></script>
 <script type="text/javascript" src="/thinkphp2/Public/Js/goods.js"></script>
+<script type="text/javascript" src="/thinkphp2/Public/Js/jquery.cityselect.js"></script>
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->

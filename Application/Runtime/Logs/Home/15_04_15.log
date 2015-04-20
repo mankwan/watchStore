@@ -1,0 +1,169 @@
+[ 2015-04-15T15:27:25+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001966s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.053169s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.013478s ]
+
+[ 2015-04-15T15:27:29+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002359s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008095s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000604s ]
+
+[ 2015-04-15T15:27:33+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001936s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007486s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000647s ]
+
+[ 2015-04-15T15:27:58+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004421s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007778s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000650s ]
+
+[ 2015-04-15T15:28:02+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006204s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006815s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000806s ]
+
+[ 2015-04-15T15:28:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004320s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007463s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='0ec173788c65dd08da60575219707632' ) LIMIT 1   [ RunTime:0.000759s ]
+
+[ 2015-04-15T15:29:00+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005057s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007416s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000649s ]
+
+[ 2015-04-15T15:29:58+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002984s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.006432s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='' ) LIMIT 1   [ RunTime:0.000443s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000435s ]
+SQL: UPDATE `tp_cart` SET `uid`=null,`update_time`=1429082998,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.000902s ]
+
+[ 2015-04-15T15:30:25+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003644s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008643s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000847s ]
+
+[ 2015-04-15T15:30:48+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003370s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006569s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&&password='0ec173788c65dd08da60575219707632' ) LIMIT 1   [ RunTime:0.000743s ]
+
+[ 2015-04-15T15:30:54+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002639s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007320s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000698s ]
+
+[ 2015-04-15T15:31:53+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003116s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007317s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000762s ]
+
+[ 2015-04-15T15:32:09+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002572s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006716s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000683s ]
+
+[ 2015-04-15T15:32:22+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002685s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006868s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'zhouzhou' LIMIT 1   [ RunTime:0.000699s ]
+
+[ 2015-04-15T15:32:53+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003215s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008408s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000815s ]
+
+[ 2015-04-15T15:33:46+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002512s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.006908s ]
+
+[ 2015-04-15T15:33:58+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002987s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.008424s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'mankwan' LIMIT 1   [ RunTime:0.001196s ]
+SQL: INSERT INTO `tp_user` (`username`,`password`,`ip`,`last_time`) VALUES ('mankwan','2d6d99683ae8a7a080d02d22f33a903b','127.0.0.1',1429083238) [ RunTime:0.176516s ]
+
+[ 2015-04-15T23:41:15+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002779s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007139s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhouzhou'&&password='2bbd94900dddc81c3df55da66b0b004f' ) LIMIT 1   [ RunTime:0.000712s ]
+
+[ 2015-04-15T23:41:30+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002505s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007189s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='zhou'&&password='748964e0a3e61c156e09750566a42395' ) LIMIT 1   [ RunTime:0.000705s ]
+
+[ 2015-04-15T23:41:38+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002192s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.007030s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='mankwan'&&password='2d6d99683ae8a7a080d02d22f33a903b' ) LIMIT 1   [ RunTime:0.000674s ]
+
+[ 2015-04-15T23:42:44+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002870s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.007206s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='30' ) LIMIT 1   [ RunTime:0.000572s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=31 ) LIMIT 1   [ RunTime:0.000533s ]
+SQL: UPDATE `tp_cart` SET `uid`=30,`update_time`=1429112564,`gid`=31,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"31\";s:8:\"good_num\";s:1:\"1\";s:10:\"good_price\";s:3:\"759\";s:9:\"good_name\";s:7:\"BABY-G1\";}}' WHERE ( gid=31 ) [ RunTime:0.001009s ]
+

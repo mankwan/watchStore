@@ -41,3 +41,27 @@ ul{
 	width:481px;
 	padding-top: 23px;
 }
+.progress-3 li{
+	float:left;
+	line-height:23px;
+	text-align:center;
+	margin-right: 56px;
+}
+.progress-3 .step-3{
+	color:#7abd54;
+}
+.progress-3{
+	background: url("../Img/step2.png") no-repeat;
+	width:481px;
+	padding-top: 23px;
+}
+.contact_form input:focus:invalid, .contact_form textarea:focus:invalid { /* when a field is considered invalid by the browser */
+    background: #fff url(../Img/invalid.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #d45252;
+    border-color: #b03535
+}
+.contact_form input:required:valid, .contact_form textarea:required:valid { /* when a field is considered valid by the browser */
+    background: #fff url(../Img/valid.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #5cd053;
+    border-color: #28921f;
+}

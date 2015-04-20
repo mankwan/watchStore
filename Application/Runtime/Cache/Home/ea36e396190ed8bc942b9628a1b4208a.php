@@ -7,6 +7,7 @@
 <script type="text/javascript" src=
 "/thinkphp2/Public/Js/bootstrap.js"></script>
 <script type="text/javascript" src="/thinkphp2/Public/Js/goods.js"></script>
+<script type="text/javascript" src="/thinkphp2/Public/Js/jquery.cityselect.js"></script>
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -67,29 +68,34 @@
 				</div>
 			</div>
 			<div class="col-md-8">
-				<ul class="list-group" id="summary">
+				<div class="page-header"  id="summary">
 					<h3><input id="goodName" type="hidden" value="<?php echo ($good_info["title"]); ?>" /><?php echo ($good_info["title"]); ?></h3>
 					<input id="goodId" type="hidden" value="<?php echo ($good_info["id"]); ?>" />
-					<li class="list-group-item"><input id="goodPrice" type="hidden" value="<?php echo ($good_info["outPrice"]); ?>">价格:￥<?php echo ($good_info["outPrice"]); ?></li>
-					<li class="list-group-item">配送的地点:
-						<div class="btn-group">
-							<select id="county">
-   								 <option value="">--市--</option>
-   								 <option value="zhejiang">广州</option>
-   								 <option value="jiangsu" >江门</option>
-    						</select>
+				</div>
+				<div class="panel panel-default">	
+					<div class="panel-body">
+						<label><input id="goodPrice" type="hidden" value="<?php echo ($good_info["outPrice"]); ?>"><h4>价格:￥<?php echo ($good_info["outPrice"]); ?></h4></label>
+						<div  id="city2">
+								<h4 class="col-sm-2" for="rName">所在地区：</h4>
+    							<div class="col-sm-2">
+									<select class="prov form-control"></select>
+								</div>
+								<div class="col-sm-2">
+									<select class="city form-control " disabled="disabled"></select>
+								</div>
+								<div class="col-sm-2">
+									<select class="dist form-control" disabled="disabled"></select>
+								</div>
+    					</div>
+    				</div>
+					<div class="panel-body">		
+						<div class="select-good-num">
+							<h4 style="float:left;">数量：</h4>
+							<input id="numDown" type="button" value="-"/>
+							<input id="goodNum" type="text" value="1"/>
+							<input id="numUp" type="button" value="+"/>
+							<input id="addToCart" type="button" class="btn btn-success" value="加入购物车" />
 						</div>
-					</li>				
-				</ul>
-				<div class="buy-btn-box">
-					<div class="select-good-num">
-						<p>数量：</p>
-						<input id="numDown" type="button" value="-"/>
-						<input id="goodNum" type="text" value="1"/>
-						<input id="numUp" type="button" value="+"/>
-					</div>
-					<div class="cart ">
-					<input id="addToCart" type="button" class="btn btn-success" value="加入购物车" />
 					</div>
 				</div>
 			</div>

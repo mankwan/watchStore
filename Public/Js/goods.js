@@ -1,6 +1,21 @@
 $(function(){
-	$('.numUp').on('click',numUp);
-	$('.numDown').on('click',numDown);
+	/*加入购物车的单的数量+-*/
+	$('#numUp').on('click',function(){
+		var goodNum=parseInt($('#goodNum').val());
+		$('#goodNum').val(++goodNum);
+	});
+	$('#numDown').on('click',function(){
+		var goodNum=parseInt($('#goodNum').val());
+		if(goodNum<2){
+			return;
+		}
+		$('#goodNum').val(--goodNum);
+	});
+
+
+
+	$('.numUp').on('click',numUp);//cart
+	$('.numDown').on('click',numDown);//cart
 	$('#addToCart').on('click',addToCart);
 
 	function numUp(){//数目增加
@@ -39,11 +54,13 @@ $(function(){
 				var result=(goodPrice*goodNum+k*1).toFixed(2);
 				$("#total_price").html(result);
 			});
+			$("#confirm").find('a').attr('class','btn-success btn');
 		}else{
 			$(".checkone").each(function(){
 				this.checked=false;
 				$("#total_price").html("0.00");
-			})
+			});
+			$("#confirm").find('a').attr('class','disabled btn-success btn');
 		}
 	});
 
@@ -57,12 +74,43 @@ $(function(){
 			$(this).attr("checked");
 			var result=(goodNum*goodPrice+k*1).toFixed(2);
 			$("#total_price").html(result);
+			$("#confirm").find('a').attr('class','btn-success btn');
 		}else{
 			this.checked=false;
 			var result=(k*1-goodNum*goodPrice).toFixed(2);
 			$("#total_price").html(result);
+			$("#confirm").find('a').attr('class','disabled btn-success btn');
 		}
 	}
 
-})
+	/*左边栏目的显示和隐藏*/
+	$("#leftList [name='casio']").hover(function(){
+		$(this).find(".leftNav").slideDown('normal');
+	},function(){
+		$(this).find(".leftNav").stop().slideUp('normal');
+	});
+
+	$("#leftList [name='swatch']").hover(function(){
+		$(this).find(".leftNav").slideDown('normal');
+	},function(){
+		$(this).find(".leftNav").stop().slideUp('normal');
+	});
+
+	/*省市联动*/
+	$('#city').citySelect({
+		url:'../../../Public/Js/city.min.js',
+		prov:"",
+		city:"",
+		dist:"",
+		nodata:"none"
+	});
+	$('#city2').citySelect({
+		url:'../../../../../Public/Js/city.min.js',
+		prov:"",
+		city:"",
+		dist:"",
+		nodata:"none"
+	});
+	
+});
 

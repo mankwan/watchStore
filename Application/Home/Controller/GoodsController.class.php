@@ -60,6 +60,9 @@ class GoodsController extends Controller{
 		$this->display();
 	}
 	public function checkCart(){
+		$uid= session("userid");
+		$cart_list=D("Cart")->getCartlist($uid);
+		$this->assign('cart_list',$cart_list);
 		$this->display();
 	}
 }

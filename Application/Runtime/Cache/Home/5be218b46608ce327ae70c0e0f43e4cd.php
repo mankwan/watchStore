@@ -7,6 +7,7 @@
 <script type="text/javascript" src=
 "/thinkphp2/Public/Js/bootstrap.js"></script>
 <script type="text/javascript" src="/thinkphp2/Public/Js/goods.js"></script>
+<script type="text/javascript" src="/thinkphp2/Public/Js/jquery.cityselect.js"></script>
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -65,9 +66,19 @@
 <div class="contain">
   <div class="row">
     <div class="col-md-2">
-        <div class="nav nav-pills nav-stacked" role="tablist">
-          <li class="active" role="presentation" name="casio" onclick=leftList()><a href="<?php echo U('Home/Goods/casioList');?>">卡西欧CASIO</a></li>
-          <li role="presentation" name="swatch"><a href="#">SWATCH</a></li>  
+        <div id="leftList"  class="nav nav-pills nav-stacked" role="tablist">
+          <li  class="active" role="presentation" name="casio" onclick=leftList()><a href="<?php echo U('Home/Goods/casioList');?>">卡西欧CASIO</a>
+            <ul class="leftNav" >
+              <li>G-Shock</li>
+              <li>Baby-G</li>
+            </ul>
+          </li>
+          <li role="presentation" name="swatch"><a href="#">SWATCH</a>
+            <ul class="leftNav" >
+              <li>精工表</li>
+              <li>机械表</li>
+            </ul>
+          </li>  
           <li role="presentation" name="rolex"><a href="#">劳力士ROLEX</a></li>
           <li role="presentation" name="omega"><a href="#">Ω O
             MEGA</a></li>

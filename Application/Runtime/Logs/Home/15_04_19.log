@@ -1,0 +1,18 @@
+[ 2015-04-19T23:30:39+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002846s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.040668s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='mankwan'&&password='2d6d99683ae8a7a080d02d22f33a903b' ) LIMIT 1   [ RunTime:0.000816s ]
+
+[ 2015-04-19T23:53:30+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/Goods/addToCart
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003331s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.008245s ]
+SQL: SELECT `info` FROM `tp_cart` WHERE ( id='30' ) LIMIT 1   [ RunTime:0.000472s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\thinkphp2\Application\Home\Model\CartModel.class.php 第 10 行.
+SQL: SELECT `info` FROM `tp_cart` WHERE ( gid=22 ) LIMIT 1   [ RunTime:0.000448s ]
+SQL: UPDATE `tp_cart` SET `uid`=30,`update_time`=1429458810,`gid`=22,`info`='a:1:{i:0;a:4:{s:7:\"good_id\";s:2:\"22\";s:8:\"good_num\";s:1:\"2\";s:10:\"good_price\";s:3:\"798\";s:9:\"good_name\";s:8:\"G-SHOCK1\";}}' WHERE ( gid=22 ) [ RunTime:0.050259s ]
+

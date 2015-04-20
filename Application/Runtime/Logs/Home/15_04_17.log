@@ -1,0 +1,8 @@
+[ 2015-04-17T19:49:41+08:00 ] 127.0.0.1 /thinkphp2/index.php/Home/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002119s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\thinkphp2\Application\Home\Controller\UserController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.023966s ]
+SQL: SELECT * FROM `tp_user` WHERE ( username='mankwan'&&password='2d6d99683ae8a7a080d02d22f33a903b' ) LIMIT 1   [ RunTime:0.000825s ]
+
